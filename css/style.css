@@ -100,23 +100,52 @@ nav li a{
     background-repeat: no-repeat;
     color:white;
     width: 100%;
+    height: 800px;
 }
+
+.fototres{
+	padding-top: 30px;
+	text-align: justify;
+}
+
+.titulo{
+	padding-left: 270px;
+	padding-top: 40px;
+}
+
+.titulo h3{
+	font-size: 15px;
+	font-weight: bolder;
+}
+
+.titulo h4{
+	font-weight: bolder;
+}
+
+.titulo p{
+	font-size:10px;
+}
+
 .patitas{
 	background-color: whitesmoke;
 	padding: 100px;	
 }
+
 .patitas h3{
 	color:#A89F68;
 	font-weight: bolder;
 }
+
 .icono{
 	color:#A89F68;
 	font-size: 100px;
 }
+
 .parrafo{
 	color:#000040;
 	font-size: 12px;
 }
+
 .donate{
 	background-color:#A89F68; 
 	padding: 100px;
@@ -136,7 +165,6 @@ nav li a{
 .month{
 	color:#000040;
 	font-size: 12px;
-	text-decoration: underline;
 }
 .foot{
 	background-color: #41521F;
